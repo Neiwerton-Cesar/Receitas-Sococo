@@ -15,10 +15,11 @@ body {
     margin: 0; /* Remove a margem padrão */
     padding: 0; /* Remove o padding padrão */
     /* Adicione a imagem de fundo aqui */
+    position: relative;
     background-image: url('ImagemdeFundo.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: inherit;
+    background-position: center;
   
 }
 
