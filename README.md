@@ -29,3 +29,4 @@ Todo mundo é bem-vindo nesse festão de receitas! Se você tiver alguma ideia p
 * **Melhorias:** A aplicação pode ser melhorada com a implementação de uma busca mais sofisticada, utilizando expressões regulares ou algoritmos de pesquisa mais complexos.
 
 **Divirta-se e bom apetite!**
+**[Acesse o app do projeto](https://receitas-sococo.vercel.app/)**
